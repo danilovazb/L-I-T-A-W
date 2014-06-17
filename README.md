@@ -5,7 +5,7 @@ L.I.T.A.W v1.0
 
 ## Description ##
 
-This script sends a sequence to whatsapp the victim so it locks the application, tested only on Android 4.3 Jelly Bean
+This script sends a sequence to whatsapp the target so it locks the application, tested only on Android 4.3 Jelly Bean
 
 ## Requirements ##
 
